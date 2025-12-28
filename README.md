@@ -1,2 +1,16 @@
-# 100-days-of-code
-100 Days of Code journey to build consistency in Python, DSA, and problem-solving.
+# 100 Days of Code 🚀
+
+I am committing to code every day to build strong fundamentals in Python and Data Structures.
+
+## Tech Stack
+- Python
+- DSA
+- LeetCode
+
+## Progress Log
+
+### Day 1
+- Revised Python basics
+- Solved 1 LeetCode problem
+
+(More days coming...)
