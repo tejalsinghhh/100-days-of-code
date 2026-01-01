@@ -1,16 +1,14 @@
-# 100 Days of Code 🚀
+# 100 Days of Code – LeetCode
 
-I am committing to code every day to build strong fundamentals in Python and Data Structures.
+Started on: 1 Jan 2026
 
-## Tech Stack
-- Python
-- DSA
-- LeetCode
+Goal: Solve at least 1 LeetCode problem every day for 100 days.
 
-## Progress Log
+## Progress
 
-### Day 1
-- Revised Python basics
-- Solved 1 LeetCode problem
+Day 1:
+- Problem: Two Sum
+- Difficulty: Easy
+- Key learning: Hash map approach
 
-(More days coming...)
+(Updating daily 🚀)
